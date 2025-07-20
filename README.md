@@ -1,10 +1,12 @@
-# spotter-app
+# Spotter-app
 Spotter is a web-based fitness training application designed to help users manage and track personalized workout programs. It enables users to create, join, and follow training programs while also connecting with a community of like-minded individuals. 
 
 ### Created By - **Syed Izaz**  
 
 NSU ID: 2232366042  
 Email: [syed.lzaz@northsouth.edu](mailto:syed.lzaz@northsouth.edu)
+
+
 
 
 # Spotter – Web-Based Fitness Training App
@@ -114,16 +116,3 @@ Users can:
 - Beginners looking for guided progress.
 - Friends or groups training together.
 - Data-driven users who enjoy analyzing their fitness journey.
-
----
-
-## Tech Stack
-
-- Frontend: HTML, CSS, JavaScript (optionally Vue/React)
-- Backend: PHP or Node.js
-- Database: MySQL / SQLite
-- Hosting: Local / Cloud deployment ready
-
----
-
-Feel free to clone and contribute!
