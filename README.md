@@ -3,6 +3,8 @@ Spotter is a web-based fitness training application designed to help users manag
 
 ### Created By - **Syed Izaz**  
 
+---
+
 NSU ID: 2232366042  
 Email: [syed.lzaz@northsouth.edu](mailto:syed.lzaz@northsouth.edu)
 
