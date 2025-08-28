@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .custom-scrollbar {
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none;  /* IE 10+ */
+    }
+
+    .custom-scrollbar::-webkit-scrollbar {
+        display: none; /* Chrome, Safari, Opera */
+    }
+
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+}
+
+html, body {
+    overscroll-behavior: none; 
+}
